@@ -12,6 +12,9 @@ public class UnitTest {
 	  
 	  return a-b;
   }
+	public static int testOne(int a, int b) {
+	  
+	  return a+b;
 	
 	}
 
